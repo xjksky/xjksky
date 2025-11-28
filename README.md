@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning python, C
 - 👯 I’m looking to collaborate on AI project
 - 🤔 I’m looking for help with github Copilot
-yes it is me
+
 
 
